@@ -1,0 +1,7 @@
+spring:
+
+datasource:
+driver-class-name: spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
+url: spring.datasource.url=jdbc:mysql://localhost:3306/gallery
+#service: spring.datasource.username=root
+password: 1234
